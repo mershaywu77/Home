@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jun Wu
-- 👀 I’m interested in embeded software and IOT
-- 🌱 I’m currently learning anything intesrsting
-- 💞️ I’m looking to collaborate on C/C++ reusable modules in IOT
+- 👀 I’m interested in embeded software and IoT
+- 🌱 I’m currently learning docker, micro service and AI
+- 💞️ I’m looking to collaborate on C/C++ reusable modules in IoT
 - 📫 Please contact me by mershaywu@gmail.com
 
 <!---
